@@ -1,0 +1,6 @@
+torch==2.2.2
+torchtext==0.17.2
+spacy==3.8.0
+pandas==2.2.3
+numpy==1.26.4
+tqdm==4.67.1
