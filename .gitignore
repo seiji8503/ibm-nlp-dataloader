@@ -1,1 +1,17 @@
 .qodo
+# Ambientes virtuais
+.venv/
+env/
+venv/
+
+# Arquivos Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs e dados temporários
+*.log
+*.tmp
+
+# Configs do VS Code
+.vscode/

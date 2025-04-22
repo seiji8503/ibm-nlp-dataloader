@@ -4,3 +4,9 @@ spacy==3.8.0
 pandas==2.2.3
 numpy==1.26.4
 tqdm==4.67.1
+nltk
+transformers
+sentencepiece
+spacy
+torchdata==0.7.1
+portalocker

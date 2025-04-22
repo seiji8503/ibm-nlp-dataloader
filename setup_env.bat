@@ -8,3 +8,4 @@ pip install -r requirements.txt
 echo All set! Activate with:
 echo call .venv\Scripts\activate
 pause
+

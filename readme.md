@@ -36,3 +36,10 @@ pip install torch torchtext pandas
 Ctrl + Shift + P
 Python: Select Interpreter
 Escolha o .venv que você acabou de criar.
+
+pip install -r requirements.txt
+
+pip install numpy pandas 
+pip install numpy scikit-learn
+
+python -m spacy download fr_core_news_sm
